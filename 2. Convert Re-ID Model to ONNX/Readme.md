@@ -1,8 +1,10 @@
 # Step 2: Convert vehicle Re-ID model to ONNX
 
-Before you dig in, make sure to download this file and put it inside this folder:
+## Before you dig in, make sure to download this file and put it inside this folder:
 
-https://drive.google.com/file/d/1HnCmknDhX5zUAqDmbw7AvXZv8clDhDWh/view?usp=sharing
+## https://drive.google.com/file/d/1HnCmknDhX5zUAqDmbw7AvXZv8clDhDWh/view?usp=sharing
+
+
 
 Then just run the jupyter notebook. This notebook was created following the official Pytorch documentation: 
 
