@@ -3,7 +3,9 @@
 #### First of all, install OpenVINO con your computer: 
 https://docs.openvinotoolkit.org/2021.4/openvino_docs_install_guides_installing_openvino_windows.html#set-the-environment-variables
 
-**Important: I had to install python3.8 (python3.9 does not work with openVINO)
+**Important: You must have Python 3.6-3.8 (3.9 is not supported)
+
+**Important: You must have VisualStudio 19 + CMake (>3.15) installed.
 
 #### Then, install the pre-requisites to make it work with python:
 https://docs.openvinotoolkit.org/latest/openvino_docs_MO_DG_prepare_model_Config_Model_Optimizer.html
