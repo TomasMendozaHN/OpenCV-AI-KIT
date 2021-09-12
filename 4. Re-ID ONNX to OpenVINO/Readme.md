@@ -11,7 +11,7 @@ https://docs.openvinotoolkit.org/latest/openvino_docs_MO_DG_prepare_model_Config
 #### And don't forget to add everything to the PATH:
 "C:\Program Files (x86)\Intel\openvino_2021\bin\setupvars.bat"
 
-#### After finishing, open a cmd window and do this:
+#### After finishing, open a cmd window and run this:
 
 cd C:\Program Files (x86)\Intel\openvino_2021\deployment_tools\model_optimizer
 
