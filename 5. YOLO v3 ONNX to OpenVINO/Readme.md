@@ -22,6 +22,6 @@ cd C:\Program Files (x86)\Intel\openvino_2021\deployment_tools\model_optimizer
 
 #### and make sure to put the "YOLO_V3.onnx" file inside the folder above.
 
-python mo.py --input_model=YOLO_V3.onnx --output_dir D: --input_shape (1,3,224,224)
+python mo.py --input_model=YOLO_V3.onnx --output_dir D: --input_shape (4,3,128,64)
 
 #### this will output 3 files into the root D: drive. Those files are the model in OpenVINO format. 
