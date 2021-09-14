@@ -5,6 +5,8 @@
 
 It contains the steps necessary to convert your trained PyTORCH NN to MyriadX blob format (which is used by the OAK camera). 
 
+In particular, I go over the steps required to transform the DeepSORT implementation from ZQPei to be runned by the OAK camera.
+
 
 # Important
 
